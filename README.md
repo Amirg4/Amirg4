@@ -1,3 +1,25 @@
+Hi, I’m Amir 👋
+I’m a Level 3 IT student in Liverpool, building practical skills in IT support, networking, Python and cybersecurity.
+
+🛠️ Skills I’m Developing
+IT Support: Windows troubleshooting, hardware and system administration fundamentals
+Networking: TCP/IP, IP addressing, DNS, HTTP/HTTPS and network diagnostics
+Programming: Python, functions, data structures and input validation
+Cybersecurity: Linux, Kali Linux, security fundamentals and authorised practical labs
+Web Development: HTML, CSS and JavaScript
+📂 My Projects
+I use GitHub to document my learning, build practical projects and demonstrate my technical skills.
+
+Python Projects — applications and programming exercises
+Networking Labs — networking concepts, commands and troubleshooting
+Cybersecurity Labs — notes and practical exercises from authorised training environments
+IT Portfolio — college projects and technical documentation
+
+🎯 My Goal
+I’m working towards an entry-level IT or cybersecurity role and looking for opportunities to develop my technical skills through real-world experience.
+
+I’m committed to learning, documenting my progress and improving through practical work.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am1r_g4) 

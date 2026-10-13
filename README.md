@@ -20,6 +20,9 @@ I’m working towards an entry-level IT or cybersecurity role and looking for op
 
 I’m committed to learning, documenting my progress and improving through practical work.
 
+you can contact me at 
++447879996566 or my email amzu7908@gmail.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am1r_g4) 

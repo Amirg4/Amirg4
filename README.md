@@ -1,4 +1,4 @@
-Hi, I’m Amir 👋
+Hello, I’m Amir!
 I’m a Level 3 IT student in Liverpool, building practical skills in IT support, networking, Python and cybersecurity.
 
 🛠️ Skills I’m Developing
